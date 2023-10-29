@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratikshaCode01
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning TE Computer Engineering 
+- 👀 I’m interested in web developer ,java full stack
+- 🌱 I completed my Computer Engineering 
 - 💞️ I’m currently learn a new programming language
 
 <!---
